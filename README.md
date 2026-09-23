@@ -1,1 +1,1 @@
-# OOPS-UNIT2
+Welcome to the Inheritance module of my C++ Object-Oriented Programming collection! This branch of code focuses entirely on how classes inherit attributes, methods, and behaviors from parent classes—a fundamental mechanism for building scalable and reusable C++ software architectures.
